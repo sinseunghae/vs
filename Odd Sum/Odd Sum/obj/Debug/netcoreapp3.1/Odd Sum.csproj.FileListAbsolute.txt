@@ -1,0 +1,14 @@
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\bin\Debug\netcoreapp3.1\Odd Sum.exe
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\bin\Debug\netcoreapp3.1\Odd Sum.deps.json
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\bin\Debug\netcoreapp3.1\Odd Sum.runtimeconfig.json
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\bin\Debug\netcoreapp3.1\Odd Sum.runtimeconfig.dev.json
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\bin\Debug\netcoreapp3.1\Odd Sum.dll
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\bin\Debug\netcoreapp3.1\Odd Sum.pdb
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.csproj.AssemblyReference.cache
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.AssemblyInfoInputs.cache
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.AssemblyInfo.cs
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.csproj.CoreCompileInputs.cache
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.dll
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.pdb
+D:\Study Files\Visual Studio Workspace\Odd Sum\Odd Sum\obj\Debug\netcoreapp3.1\Odd Sum.genruntimeconfig.cache

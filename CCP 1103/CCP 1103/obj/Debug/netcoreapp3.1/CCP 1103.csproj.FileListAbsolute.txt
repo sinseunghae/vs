@@ -1,0 +1,28 @@
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.exe
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.deps.json
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.runtimeconfig.json
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.runtimeconfig.dev.json
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.dll
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.pdb
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.csproj.AssemblyReference.cache
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.AssemblyInfoInputs.cache
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.AssemblyInfo.cs
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.csproj.CoreCompileInputs.cache
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.dll
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.pdb
+C:\Users\IGUIN\source\repos\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.genruntimeconfig.cache
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.exe
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.deps.json
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.runtimeconfig.json
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.runtimeconfig.dev.json
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.dll
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\bin\Debug\netcoreapp3.1\CCP 1103.pdb
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.csproj.AssemblyReference.cache
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.AssemblyInfoInputs.cache
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.AssemblyInfo.cs
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.csproj.CoreCompileInputs.cache
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.dll
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.pdb
+D:\Study Files\Visual Studio Workspace\CCP 1103\CCP 1103\obj\Debug\netcoreapp3.1\CCP 1103.genruntimeconfig.cache

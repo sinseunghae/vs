@@ -1,0 +1,14 @@
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.csproj.AssemblyReference.cache
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.AssemblyInfoInputs.cache
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.AssemblyInfo.cs
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.csproj.CoreCompileInputs.cache
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\bin\Debug\netcoreapp3.1\Pascals Triangle.exe
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\bin\Debug\netcoreapp3.1\Pascals Triangle.deps.json
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\bin\Debug\netcoreapp3.1\Pascals Triangle.runtimeconfig.json
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\bin\Debug\netcoreapp3.1\Pascals Triangle.runtimeconfig.dev.json
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\bin\Debug\netcoreapp3.1\Pascals Triangle.dll
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\bin\Debug\netcoreapp3.1\Pascals Triangle.pdb
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.dll
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.pdb
+D:\Study Files\Visual Studio Workspace\Pascals Triangle\Pascals Triangle\obj\Debug\netcoreapp3.1\Pascals Triangle.genruntimeconfig.cache

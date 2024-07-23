@@ -1,0 +1,20 @@
+C:\Users\Mikaela\source\repos\InBetween\InBetween\bin\Debug\InBetween.exe.config
+C:\Users\Mikaela\source\repos\InBetween\InBetween\bin\Debug\InBetween.exe
+C:\Users\Mikaela\source\repos\InBetween\InBetween\bin\Debug\InBetween.pdb
+C:\Users\Mikaela\source\repos\InBetween\InBetween\obj\Debug\InBetween.csproj.AssemblyReference.cache
+C:\Users\Mikaela\source\repos\InBetween\InBetween\obj\Debug\InBetween.frm1.resources
+C:\Users\Mikaela\source\repos\InBetween\InBetween\obj\Debug\InBetween.Properties.Resources.resources
+C:\Users\Mikaela\source\repos\InBetween\InBetween\obj\Debug\InBetween.csproj.GenerateResource.cache
+C:\Users\Mikaela\source\repos\InBetween\InBetween\obj\Debug\InBetween.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\source\repos\InBetween\InBetween\obj\Debug\InBetween.exe
+C:\Users\Mikaela\source\repos\InBetween\InBetween\obj\Debug\InBetween.pdb
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\bin\Debug\InBetween.exe.config
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\bin\Debug\InBetween.exe
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\bin\Debug\InBetween.pdb
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\obj\Debug\InBetween.csproj.AssemblyReference.cache
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\obj\Debug\InBetween.frm1.resources
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\obj\Debug\InBetween.Properties.Resources.resources
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\obj\Debug\InBetween.csproj.GenerateResource.cache
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\obj\Debug\InBetween.csproj.CoreCompileInputs.cache
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\obj\Debug\InBetween.exe
+D:\Programming Files\Visual Studio Workspace\InBetween\InBetween\obj\Debug\InBetween.pdb

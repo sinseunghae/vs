@@ -1,0 +1,4 @@
+D:\Study Files\Visual Studio Workspace\DivisibleByNine\DivisibleByNine\obj\Debug\netcoreapp3.1\DivisibleByNine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Files\Visual Studio Workspace\DivisibleByNine\DivisibleByNine\obj\Debug\netcoreapp3.1\DivisibleByNine.AssemblyInfoInputs.cache
+D:\Study Files\Visual Studio Workspace\DivisibleByNine\DivisibleByNine\obj\Debug\netcoreapp3.1\DivisibleByNine.AssemblyInfo.cs
+D:\Study Files\Visual Studio Workspace\DivisibleByNine\DivisibleByNine\obj\Debug\netcoreapp3.1\DivisibleByNine.csproj.CoreCompileInputs.cache
